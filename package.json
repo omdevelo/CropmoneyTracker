@@ -29,6 +29,8 @@
       "react-app",
       "react-app/jest"
     ]
+  },"engines": {
+    "node": "14.17.5"
   },
   "browserslist": {
     "production": [
